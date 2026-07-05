@@ -1,0 +1,8 @@
+{
+  "name": "Romantic Birthday Surprise",
+  "description": "A premium, fully customizable romantic Birthday Surprise experience with interactive timelines, floating memory galleries, love quizzes, animated cake-blowing, love letters, and dynamic custom settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
